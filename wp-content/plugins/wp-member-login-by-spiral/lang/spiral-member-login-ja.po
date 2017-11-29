@@ -1,0 +1,223 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Member Login by SPIRAL\n"
+"POT-Creation-Date: 2013-11-14 17:14+0900\n"
+"PO-Revision-Date: 2013-11-14 17:18+0900\n"
+"Last-Translator: PIPED BITS\n"
+"Language-Team: PIPED BITS\n"
+"Language: japanese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals = 1; plural = 0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../class-spiral-member-login-widget.php:28
+msgid "SPIRAL Login widget for your site"
+msgstr "SPIRALを使ったログインフォーム・ユーザ情報などを表示"
+
+#: ../class-spiral-member-login-widget.php:30
+#: ../class-spiral-member-login.php:310 ../class-spiral-member-login.php:311
+msgid "WP Member Login by SPIRAL"
+msgstr "WP Member Login by SPIRAL"
+
+#: ../class-spiral-member-login-widget.php:130
+msgid "Show When Logged In"
+msgstr "ログアウト時に表示"
+
+#: ../class-spiral-member-login-widget.php:133
+msgid "Show When Logged Out"
+msgstr "ログイン時に表示"
+
+#: ../class-spiral-member-login-widget.php:136
+msgid "Show Name"
+msgstr "会員情報を表示"
+
+#: ../class-spiral-member-login-widget.php:139
+msgid "Show Title"
+msgstr "タイトルを表示"
+
+#: ../class-spiral-member-login-widget.php:142
+msgid "Show Register Link"
+msgstr "会員新規登録ページへのリンクを表示"
+
+#: ../class-spiral-member-login-widget.php:145
+msgid "Show Lost Password Link"
+msgstr "パスワード再設定ページヘのリンクを表示"
+
+#: ../class-spiral-member-login-widget.php:148
+msgid "Show Profile Link"
+msgstr "情報変更ページへのリンクを表示"
+
+#: ../class-spiral-member-login-widget.php:151
+msgid "Show Reset Password Link"
+msgstr "パスワード変更ページヘのリンクを表示"
+
+#: ../class-spiral-member-login-widget.php:154
+msgid "Show Withdrawal Link"
+msgstr "退会ページヘのリンクを表示"
+
+#: ../class-spiral-member-login-template.php:150
+#: ../class-spiral-member-login-template.php:173
+#: ../class-spiral-member-login.php:807
+msgid "Log In"
+msgstr ""
+
+#: ../class-spiral-member-login-template.php:157
+#: ../class-spiral-member-login.php:812
+msgid "Register"
+msgstr "新規登録"
+
+#: ../class-spiral-member-login-template.php:160
+#: ../class-spiral-member-login.php:810
+msgid "Lost Password"
+msgstr "パスワード再設定"
+
+#: ../class-spiral-member-login-template.php:163
+#: ../class-spiral-member-login.php:809
+msgid "Profile"
+msgstr "情報変更"
+
+#: ../class-spiral-member-login-template.php:166
+#: ../class-spiral-member-login.php:811
+msgid "Reset Password"
+msgstr "パスワード変更"
+
+#: ../class-spiral-member-login-template.php:169
+#: ../class-spiral-member-login.php:813
+msgid "Withdrawal"
+msgstr "退会"
+
+#: ../class-spiral-member-login.php:317
+msgid "Spiral API Token"
+msgstr "スパイラルAPIトークン"
+
+#: ../class-spiral-member-login.php:318
+msgid "Authentication Settings"
+msgstr "認証設定"
+
+#: ../class-spiral-member-login.php:319
+msgid "Member information Settings"
+msgstr "会員情報設定"
+
+#: ../class-spiral-member-login.php:320
+msgid "Link Settings"
+msgstr "各種リンク設定"
+
+#: ../class-spiral-member-login.php:323
+msgid "API token"
+msgstr "APIトークン"
+
+#: ../class-spiral-member-login.php:324
+msgid "API token secret"
+msgstr "APIトークンシークレット"
+
+#: ../class-spiral-member-login.php:327
+msgid "Area Title"
+msgstr "マイエリアタイトル"
+
+#: ../class-spiral-member-login.php:328
+msgid "Authentication form URL"
+msgstr "ログイン認証用フォームのURL"
+
+#: ../class-spiral-member-login.php:331
+msgid "Member List Search Title"
+msgstr "会員一覧検索タイトル"
+
+#: ../class-spiral-member-login.php:332
+msgid "Default Name Key"
+msgstr "会員情報用フィールドのキー"
+
+#: ../class-spiral-member-login.php:335
+msgid "Register URL"
+msgstr "会員新規登録ページURL"
+
+#: ../class-spiral-member-login.php:336
+msgid "Lost Password URL"
+msgstr "パスワード再設定ページURL"
+
+#: ../class-spiral-member-login.php:337
+msgid "Profile Page ID"
+msgstr "会員情報変更ページID"
+
+#: ../class-spiral-member-login.php:338
+msgid "Reset Password Page ID"
+msgstr "パスワード変更ページID"
+
+#: ../class-spiral-member-login.php:339
+msgid "Withdrawal Page ID"
+msgstr "退会ページID"
+
+#: ../class-spiral-member-login.php:480
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: The password you entered for the username <strong>"
+"%1$s</strong> is incorrect. <a href=\"%2$s\" title=\"Password Lost and Found"
+"\">Lost your password</a>?"
+msgstr ""
+
+#: ../class-spiral-member-login.php:497
+msgid "Error occurred"
+msgstr "エラーが発生しました"
+
+#: ../class-spiral-member-login.php:500
+msgid "Enter Username"
+msgstr "ユーザー名を入力して下さい"
+
+#: ../class-spiral-member-login.php:503
+msgid "Enter Password"
+msgstr "パスワードを入力して下さい"
+
+#: ../class-spiral-member-login.php:506
+msgid "Authentication failed"
+msgstr "認証に失敗しました"
+
+#: ../class-spiral-member-login.php:526
+msgid "You are now logged out."
+msgstr ""
+
+#: ../class-spiral-member-login.php:528
+msgid ""
+"Session expired. Please log in again. You will not move away from this page."
+msgstr ""
+
+#: ../class-spiral-member-login.php:808
+msgid "Log Out"
+msgstr ""
+
+#: ../class-spiral-member-login.php:917
+msgid "Enter a valid API token"
+msgstr "正しいAPIトークンを入力して下さい"
+
+#: ../class-spiral-member-login.php:922
+msgid "Enter a valid API token secret"
+msgstr "正しいAPIトークンシークレットを入力して下さい"
+
+#: ../class-spiral-member-login.php:930
+msgid "Enter area title"
+msgstr "マイエリアタイトルを入力して下さい。"
+
+#: ../class-spiral-member-login.php:934
+msgid "Enter authentication form url"
+msgstr "ログイン認証用フォームのURLを入力して下さい。"
+
+#: ../class-spiral-member-login.php:942
+msgid "Enter member list search title"
+msgstr "会員一覧検索タイトルを入力して下さい。"
+
+#: ../class-spiral-member-login.php:946
+msgid "Enter default name key"
+msgstr "会員情報用フィールドのキーを入力して下さい。"
+
+#: ../views/login.php:19
+msgid "Username"
+msgstr ""
+
+#: ../views/login.php:23
+msgid "Password"
+msgstr ""
+

@@ -1,0 +1,29 @@
+/*
+Plugin Name: login form
+Description: Login Form with security and style features
+Version: 1.0
+Author: www.wpadm.com
+*/
+
+.horizontal-form {
+    padding: 5px;    
+    float: left;
+}
+/*.horizontal-form * {
+    float:left;
+} */
+.horizontal-form input, .horizontal-form label {
+    float:left;
+    margin:2px;
+}
+    
+    
+.horizontal-form label input[type=checkbox] {
+    margin: 2px 5px 2px 2px !important;
+    line-height: 48px;
+}
+
+.horizontal-form label  { 
+    line-height: 48px;
+}
+

@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Oswald';
+    src: url('Oswald-Regular-webfont.eot');
+    src: url('Oswald-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Oswald-Regular-webfont.woff') format('woff'),
+         url('Oswald-Regular-webfont.ttf') format('truetype'),
+         url('Oswald-Regular-webfont.svg#Oswald') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'open_sansbold';
+    src: url('opensans-bold-webfont.eot');
+    src: url('opensans-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('opensans-bold-webfont.woff2') format('woff2'),
+         url('opensans-bold-webfont.woff') format('woff'),
+         url('opensans-bold-webfont.ttf') format('truetype'),
+         url('opensans-bold-webfont.svg#open_sansbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'OpenSansRegular';
+    src: url('OpenSans-Regular-webfont.eot');
+    src: url('OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('OpenSans-Regular-webfont.woff') format('woff'),
+         url('OpenSans-Regular-webfont.ttf') format('truetype'),
+         url('OpenSans-Regular-webfont.svg#OpenSansRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

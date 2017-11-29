@@ -1,0 +1,102 @@
+/*
+Plugin Name: login form
+Description: Login Form with security and style features
+*/
+.wpadm-login-parts {
+    background: #fff;
+    margin-top:10px;
+    border:2px solid #939393;
+}
+
+.wpadm-login-parts-title:hover {
+    text-decoration:underline;
+    background: #f3f3f3;
+}
+.button-part {
+    text-decoration:none;
+}
+
+.wpadm-login-parts-title {
+    font-size: 18px;
+    font-weight: 600;
+    padding:15px;
+    
+    cursor: pointer;
+}
+.wpadm-login-parts-body {
+    border-top: 1px solid #939393;
+    padding: 10px 10px 15px;
+}
+.button-part {
+    float:right;
+}
+.display-none {
+    display:none;
+}
+.display-tr {
+    display:table-row;
+}
+.login-form-pro-list {
+    margin-bottom:0px;
+    margin-top:12px;
+}
+.login-form-pro-list li {
+    margin-left:20px;
+    font-size: 16px;
+    margin-bottom:3px; 
+}
+
+.login-form-pro-list li span {
+    font-size: 14px;
+    float:left;
+    margin-left: 5px;
+    margin-top: 1px;
+}
+.login-form-pro-list li img {
+    float:left;
+}
+.login-form-pro-description-title{
+    font-size:17px;
+    
+}
+.login-form-pro-buy {
+    background: #fff;
+    width: 86%;
+    padding:10px 10px 5px 10px;
+}
+.login-form-logo {
+    float:left;
+    height: 128px;
+}
+.login-form-pro-description {
+    float: left;
+    margin-left: 25px;
+}
+.button-buy {
+    -moz-box-shadow:inset 0px 1px 5px 0px #bbdaf7;
+    -webkit-box-shadow:inset 0px 1px 5px 0px #bbdaf7;
+    box-shadow:inset 0px 1px 5px 0px #bbdaf7;
+    background-color:#79bbff;
+    -moz-border-radius:6px;
+    -webkit-border-radius:6px;
+    border-radius:6px;
+    border:1px solid #84bbf3;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:18px;
+    font-weight:bold;
+    padding:9px 24px;
+    text-decoration:none;
+    text-shadow:0px 2px 0px #528ecc;
+}
+.button-buy:hover {
+    background-color:#378de5;
+    text-decoration: underline;
+}
+.button-buy:active {
+    position:relative;
+    top:1px;
+}
+
